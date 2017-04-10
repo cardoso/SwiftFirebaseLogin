@@ -8,5 +8,7 @@ target 'SwiftFirebaseLogin' do
   # Pods for SwiftFirebaseLogin
 
   pod 'Firebase'
+  pod 'RxSwift',    '~> 3.0'
+  pod 'RxCocoa',    '~> 3.0'
 
 end
